@@ -11,3 +11,6 @@ else {
 	console.log("There is nothing to view")
 }
 
+// we have commented this line of code
+// console.log("Nothing is showing")
+//
