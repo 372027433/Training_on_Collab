@@ -12,5 +12,5 @@ else {
 }
 
 // we have commented this line of code
-// console.log("Nothing is showing")
-//
+ console.log("Nothing is showing")
+
