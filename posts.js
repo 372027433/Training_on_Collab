@@ -2,7 +2,9 @@ console.log("Post for new comers")
 
 console.log("we have these posts for beginers");
 
-var haveWife = false ;
+// some one has changed this permission
+//
+var haveWife = true ;
 if(haveWife) {
 	console.log("he is married")
 } else {
